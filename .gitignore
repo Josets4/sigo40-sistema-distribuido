@@ -1,0 +1,19 @@
+# Gradle y compilados
+.gradle/
+build/
+bin/
+out/
+
+# Entorno de Visual Studio Code e IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+.DS_Store
